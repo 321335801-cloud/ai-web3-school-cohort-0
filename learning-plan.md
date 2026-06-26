@@ -40,12 +40,6 @@ AI 新手 · Web3 有基础 · 无代码 → 目标开发 · 每日 ≤30 分钟
 | 第 9 周 | Web3 Tool Use | [Bridge/Web3 Tool Use](https://aiweb3.school/zh/handbook/bridge/web3-tool-use/) |
 | 第 10 周 | 小项目 | 选一个 Track 做最小原型 |
 
-## 打卡目标
-
-- 每天一次打卡（≤5 分钟）+ 学习笔记（25 分钟）
-- 每周末复盘一周内容
-- 完成课程任务后提交到 tasks/
-
 ## 里程碑
 
 - [ ] 读完 LLM 章节 — 第 1 周
